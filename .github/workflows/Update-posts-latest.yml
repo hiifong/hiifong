@@ -1,0 +1,20 @@
+name: Latest blog post workflow
+on:
+#   push:
+#     branches: [main]
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          max_post_count: "5"
+          remove_duplicates: true
+          feed_list: "https://hiif.ong/index.xml"
