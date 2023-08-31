@@ -73,7 +73,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-850%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
@@ -154,5 +154,5 @@ Kotlin                   1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiifong/hiifong/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/08/31 04:15:31 UTC
+ Last Updated on 2023/08/31 16:16:44 UTC
 <!--END_SECTION:waka-->
