@@ -73,7 +73,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-869%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -148,5 +148,5 @@ Vim Script               1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiifong/hiifong/main/assets/bar_graph.png)
 
 
- Last Updated on 2023/11/05 04:15:21 UTC
+ Last Updated on 2023/11/05 16:15:08 UTC
 <!--END_SECTION:waka-->
