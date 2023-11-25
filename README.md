@@ -5,11 +5,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL基础](https://hiif.ong/sql-basics/)
 - [Go Functional Options&lpar;Go 函数式选项&rpar;](https://hiif.ong/functional-options/)
 - [Spring Framework&lpar;Spring框架&rpar;](https://hiif.ong/spring-framework/)
 - [用Git打败Git&lpar;用魔法打败魔法&rpar; --- Git Magic](https://hiif.ong/%E7%94%A8git%E6%89%93%E8%B4%A5git/)
 - [Go编程语言规范[译]](https://hiif.ong/go%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E8%A7%84%E8%8C%83/)
-- [Bubble Tea Tutorials&lpar;Bubble Tea教程&rpar;](https://hiif.ong/bubble-tea-tutorials/)
 <!-- BLOG-POST-LIST:END -->
 
 
