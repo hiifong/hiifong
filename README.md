@@ -5,11 +5,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Open Container Initiative&lpar;OCI&rpar;](https://hiif.ong/oci-spec/)
 - [LVGL快速入门指南](https://hiif.ong/quick-start-guide/)
 - [SQL基础](https://hiif.ong/sql-basics/)
 - [Go Functional Options&lpar;Go 函数式选项&rpar;](https://hiif.ong/functional-options/)
 - [Spring Framework&lpar;Spring框架&rpar;](https://hiif.ong/spring-framework/)
-- [用Git打败Git&lpar;用魔法打败魔法&rpar; --- Git Magic](https://hiif.ong/%E7%94%A8git%E6%89%93%E8%B4%A5git/)
 <!-- BLOG-POST-LIST:END -->
 
 
