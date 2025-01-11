@@ -5,11 +5,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Open Container Initiative&lpar;OCI&rpar;](https://hiif.ong/oci-spec/)
-- [LVGL快速入门指南](https://hiif.ong/quick-start-guide/)
-- [SQL基础](https://hiif.ong/sql-basics/)
-- [Go Functional Options&lpar;Go 函数式选项&rpar;](https://hiif.ong/functional-options/)
-- [Spring Framework&lpar;Spring框架&rpar;](https://hiif.ong/spring-framework/)
+- [Open Container Initiative&lpar;OCI&rpar;](https://ilo.nz/oci-spec/)
+- [LVGL快速入门指南](https://ilo.nz/quick-start-guide/)
+- [SQL基础](https://ilo.nz/sql-basics/)
+- [Go Functional Options&lpar;Go 函数式选项&rpar;](https://ilo.nz/functional-options/)
+- [Spring Framework&lpar;Spring框架&rpar;](https://ilo.nz/spring-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 
