@@ -32,8 +32,6 @@
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 49 Public Repositories 
@@ -98,5 +96,5 @@ Lua                      1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/hiifong/hiifong/main/assets/bar_graph.png)
 
 
- Last Updated on 2025/02/27 04:07:40 UTC
+ Last Updated on 2025/02/27 16:07:13 UTC
 <!--END_SECTION:waka-->
