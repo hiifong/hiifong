@@ -5,11 +5,11 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Rock 5B 部署k3s集群](https://ilo.nz/k3s-install/)
 - [Open Container Initiative&lpar;OCI&rpar;](https://ilo.nz/oci-spec/)
 - [LVGL快速入门指南](https://ilo.nz/quick-start-guide/)
 - [SQL基础](https://ilo.nz/sql-basics/)
 - [Go Functional Options&lpar;Go 函数式选项&rpar;](https://ilo.nz/functional-options/)
-- [Spring Framework&lpar;Spring框架&rpar;](https://ilo.nz/spring-framework/)
 <!-- BLOG-POST-LIST:END -->
 
 
