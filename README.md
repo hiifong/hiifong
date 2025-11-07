@@ -4,9 +4,9 @@
 
 📕  Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Gitea runner controller quick start](https://ilo.nz/runner-controller/)
-- [Rock 5B 部署k3s集群](https://ilo.nz/k3s-install/)
-- [Open Container Initiative&lpar;OCI&rpar;](https://ilo.nz/oci-spec/)
-- [LVGL快速入门指南](https://ilo.nz/quick-start-guide/)
-- [SQL基础](https://ilo.nz/sql-basics/)
+- [Gitea runner controller quick start](https://nil.xxx/runner-controller/)
+- [Rock 5B 部署k3s集群](https://nil.xxx/k3s-install/)
+- [Open Container Initiative&lpar;OCI&rpar;](https://nil.xxx/oci-spec/)
+- [LVGL快速入门指南](https://nil.xxx/quick-start-guide/)
+- [SQL基础](https://nil.xxx/sql-basics/)
 <!-- BLOG-POST-LIST:END -->
